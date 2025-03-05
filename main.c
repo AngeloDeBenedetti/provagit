@@ -1,4 +1,6 @@
-lalala riga 1
-riga 2
-riga 3 
-riga 4 olè
+#include <stdio.h>
+
+int main() {
+	printf("hello world\n");
+}
+
